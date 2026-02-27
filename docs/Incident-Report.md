@@ -1,15 +1,15 @@
-# Application Monitoring Procedure
+# Incident Report
 
-## Objective
-To monitor application logs and database records to identify and resolve production issues.
+## Incident ID: INC_001
+## Module: Login
+## Description:
+Multiple users unable to login despite valid credentials.
 
-## Monitoring Approach
-- Daily log review
-- Error pattern identification
-- Database validation using SQL queries
-- Escalation of high-severity issues
+## Impact:
+Users unable to access dashboard.
 
-## Tools Used
-- Application logs
-- SQL queries
-- Manual troubleshooting
+## Severity:
+High
+
+## Status:
+Resolved
